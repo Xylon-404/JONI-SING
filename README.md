@@ -10,3 +10,15 @@ git clone https://github.com/Xylon-404/JONI-SING.git
 cd JONI-SING
 python3 JONI🔰SING.py
 ```
+
+
+
+
+#### USERNAME
+```python
+SONI-SING
+```
+#### PASSWORD 
+```python
+MIAKOLIFA
+```
