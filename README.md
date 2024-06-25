@@ -19,7 +19,7 @@ pkg install python
 pip install requests
 git clone https://github.com/Xylon-404/JONI-SING.git
 cd JONI-SING
-python3 JONI🔰SING.py
+python JONI🔰SING.py
 ```
 
 
@@ -41,3 +41,8 @@ MIAKOLIFA
 #### SCREENSHOT
 ![logo](https://github.com/Xylon-404/Xylon-404/blob/main/20240616_124425.jpg)
 ![logo](https://github.com/Xylon-404/PIC/blob/main/Screenshot_20240625-103839.png)
+
+
+
+#### JONI-SING🔰
+![logo](https://github.com/Xylon-404/PIC/blob/main/GIF_20240625_105927_763.gif)
